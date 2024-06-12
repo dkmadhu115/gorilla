@@ -1,0 +1,6 @@
+openai==0.28.1
+streamlit
+torch
+transformers
+numpy
+pandas
